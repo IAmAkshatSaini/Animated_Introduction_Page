@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "352221629133",
+    "firebase_url": "https://viewpager-2d474.firebaseio.com",
+    "project_id": "viewpager-2d474",
+    "storage_bucket": "viewpager-2d474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352221629133:android:d4fd6eb69f675f6b",
+        "android_client_info": {
+          "package_name": "com.techoflip.navdemo.viewpager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352221629133-4b5f4h69s3m7qa72olf2bh2n5f7gni8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techoflip.navdemo.viewpager",
+            "certificate_hash": "0a997c8a9c6257983b7e3ad83d4630540d7716a2"
+          }
+        },
+        {
+          "client_id": "352221629133-orsoudmjpp3t4kcgdmcl80kbkovsp9ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKyl63kw2KZPNnX0o4hKqTdUTggz3RfU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352221629133-orsoudmjpp3t4kcgdmcl80kbkovsp9ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
